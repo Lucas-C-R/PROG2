@@ -1,0 +1,9 @@
+a 2
+arvore 2
+da 2
+galho 3
+lindo 1
+montanha 2
+que 1
+tinha 1
+um 1

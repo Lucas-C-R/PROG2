@@ -1,0 +1,9 @@
+estimated_population,last_available_confirmed,city
+508826,73685,Florianópolis
+250181,32232,São José
+175272,26394,Palhoça
+69486,10205,Biguaçu
+2887,392,Rancho Queimado
+8613,1433,Antônio Carlos
+3228,306,Anitápolis
+23579,2927,Garopaba

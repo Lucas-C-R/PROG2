@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lucas/CLionProjects/Tabela Hash/ContaPalavras/main.cpp
+iostream
+-
+fstream
+-
+string
+-
+unordered_map
+-
+list
+-
+

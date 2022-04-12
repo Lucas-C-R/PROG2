@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/string_data.dir/main.cpp.o -o string_data 

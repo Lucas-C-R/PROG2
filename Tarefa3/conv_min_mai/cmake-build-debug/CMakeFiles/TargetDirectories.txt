@@ -1,0 +1,3 @@
+/home/lucas/CLionProjects/conv_min_mai/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lucas/CLionProjects/conv_min_mai/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lucas/CLionProjects/conv_min_mai/cmake-build-debug/CMakeFiles/conv_min_mai.dir

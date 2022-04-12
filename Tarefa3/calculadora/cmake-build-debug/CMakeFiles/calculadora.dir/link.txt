@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/calculadora.dir/main.c.o -o calculadora  -lm 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Prg2_demo.dir/main.cpp.o CMakeFiles/Prg2_demo.dir/libs/BasicTree.cpp.o -o Prg2_demo 

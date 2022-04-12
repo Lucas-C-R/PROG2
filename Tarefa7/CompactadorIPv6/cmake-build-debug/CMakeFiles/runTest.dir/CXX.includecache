@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lucas/CLionProjects/Tarefa7/CompactadorIPv6/questao.cpp
+questao.h
+/home/lucas/CLionProjects/Tarefa7/CompactadorIPv6/questao.h
+
+/home/lucas/CLionProjects/Tarefa7/CompactadorIPv6/questao.h
+string
+-
+list
+-
+

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/Prog.dir/main.cpp.o CMakeFiles/Prog.dir/libs/BasicTree.cpp.o -o Prog 

@@ -1,0 +1,8 @@
+$city, $date.
+
+I was looking for information about Alan Turing, a historical celebrity in England.
+I found he was a great mathematician, and was member of the infamous HUT 8 group. Many other interesting information can be read in Wikipedia !
+
+Cheers, 
+
+$student, a curious student

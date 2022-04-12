@@ -1,0 +1,26 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lucas/CLionProjects/Tabela Hash/Hash_ClassificaFilmes/categoria.h
+string
+-
+
+/home/lucas/CLionProjects/Tabela Hash/Hash_ClassificaFilmes/questao.cpp
+questao.h
+/home/lucas/CLionProjects/Tabela Hash/Hash_ClassificaFilmes/questao.h
+
+/home/lucas/CLionProjects/Tabela Hash/Hash_ClassificaFilmes/questao.h
+categoria.h
+/home/lucas/CLionProjects/Tabela Hash/Hash_ClassificaFilmes/categoria.h
+iostream
+-
+string
+-
+unordered_map
+-
+

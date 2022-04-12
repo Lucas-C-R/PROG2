@@ -1,0 +1,9 @@
+city,date,epidemiological_week
+Florianópolis,2021-05-12,202119
+São José,2021-05-12,202119
+Palhoça,2021-05-12,202119
+Biguaçu,2021-05-12,202119
+Rancho Queimado,2021-05-12,202119
+Antônio Carlos,2021-05-12,202119
+Anitápolis,2021-05-12,202119
+Garopaba,2021-05-12,202119

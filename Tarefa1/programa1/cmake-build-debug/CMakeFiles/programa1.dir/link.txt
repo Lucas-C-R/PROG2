@@ -1,0 +1,1 @@
+/usr/bin/cc -g CMakeFiles/programa1.dir/programa_1.c.o -o programa1 

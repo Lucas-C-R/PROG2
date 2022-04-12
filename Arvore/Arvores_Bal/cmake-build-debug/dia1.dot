@@ -1,0 +1,11 @@
+strict graph {
+abarrotara -- abatido
+abatido -- abelianos
+abelianos -- abiscoitarmo
+abiscoitarmo -- abiscoiteis
+abiscoiteis -- abluindo
+abluindo -- abobadarias
+abobadarias -- abominamos
+abominamos -- abortarieis
+}
+

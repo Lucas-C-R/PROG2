@@ -1,0 +1,10 @@
+1: tarefa A
+1: tarefa D
+1: tarefa J
+2: tarefa H
+3: tarefa G
+4: tarefa E
+4: tarefa F
+5: tarefa B
+5: tarefa C
+5: tarefa I

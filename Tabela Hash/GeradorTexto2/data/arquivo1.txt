@@ -1,0 +1,10 @@
+Caro sr. $nome.
+
+Nesta data $data, conferimos sua documentação conforme nos informou previamente.
+Certificamos que seus dados são estes:
+Nacionalidade: $nacionalidade
+RG: $rg
+
+Atenciosamente,
+
+Ministério do Amor, $data

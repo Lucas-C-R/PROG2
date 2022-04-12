@@ -1,0 +1,16 @@
+3: tarefa A
+3: tarefa E
+3: tarefa G
+3: tarefa L
+3: tarefa M
+3: tarefa O
+3: tarefa P
+4: tarefa B
+4: tarefa C
+4: tarefa D
+4: tarefa H
+4: tarefa N
+5: tarefa F
+5: tarefa I
+5: tarefa J
+5: tarefa K

@@ -1,0 +1,7 @@
+/home/lucas/CLionProjects/Tarefa7/VerificaOrdenada/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lucas/CLionProjects/Tarefa7/VerificaOrdenada/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lucas/CLionProjects/Tarefa7/VerificaOrdenada/cmake-build-debug/CMakeFiles/runTest.dir
+/home/lucas/CLionProjects/Tarefa7/VerificaOrdenada/cmake-build-debug/googletest/CMakeFiles/rebuild_cache.dir
+/home/lucas/CLionProjects/Tarefa7/VerificaOrdenada/cmake-build-debug/googletest/CMakeFiles/edit_cache.dir
+/home/lucas/CLionProjects/Tarefa7/VerificaOrdenada/cmake-build-debug/googletest/CMakeFiles/gtest_main.dir
+/home/lucas/CLionProjects/Tarefa7/VerificaOrdenada/cmake-build-debug/googletest/CMakeFiles/gtest.dir

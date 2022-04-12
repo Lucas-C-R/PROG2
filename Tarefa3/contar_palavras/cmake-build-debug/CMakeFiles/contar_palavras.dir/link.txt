@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/contar_palavras.dir/main.cpp.o -o contar_palavras 

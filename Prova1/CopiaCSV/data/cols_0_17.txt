@@ -1,0 +1,9 @@
+city,new_deaths
+Florianópolis,0
+São José,0
+Palhoça,0
+Biguaçu,0
+Rancho Queimado,0
+Antônio Carlos,0
+Anitápolis,0
+Garopaba,0

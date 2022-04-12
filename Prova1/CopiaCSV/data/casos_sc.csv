@@ -1,0 +1,9 @@
+city,city_ibge_code,date,epidemiological_week,estimated_population,estimated_population_2019,is_last,is_repeated,last_available_confirmed,last_available_confirmed_per_100k_inhabitants,last_available_date,last_available_death_rate,last_available_deaths,order_for_place,place_type,state,new_confirmed,new_deaths
+Florianópolis,4205407,2021-05-12,202119,508826,500973,False,True,73685,14481.37477,2021-05-10,0.013,961,427,city,SC,0,0
+São José,4216602,2021-05-12,202119,250181,246586,False,True,32232,12883.47237,2021-05-10,0.0159,513,420,city,SC,0,0
+Palhoça,4211900,2021-05-12,202119,175272,171797,False,True,26394,15058.87991,2021-05-10,0.011,291,405,city,SC,0,0
+Biguaçu,4202305,2021-05-12,202119,69486,68481,False,True,10205,14686.41165,2021-05-10,0.0147,150,406,city,SC,0,0
+Rancho Queimado,4214300,2021-05-12,202119,2887,2878,False,True,392,13578.10876,2021-05-10,0.0051,2,425,city,SC,0,0
+Antônio Carlos,4201208,2021-05-12,202119,8613,8513,False,True,1433,16637.64078,2021-05-10,0.014,20,412,city,SC,0,0
+Anitápolis,4201109,2021-05-12,202119,3228,3232,False,True,306,9479.5539,2021-05-10,0.0033,1,322,city,SC,0,0
+Garopaba,4205704,2021-05-12,202119,23579,23078,False,True,2927,12413.58836,2021-05-10,0.012,35,399,city,SC,0,0

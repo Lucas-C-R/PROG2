@@ -1,0 +1,8 @@
+$city, $date.
+
+I was looking for information about $name, a historical celebrity in $country.
+I found he was a great mathematician, and was member of the infamous $affiliation group. Many other interesting information can be read in Wikipedia !
+
+Cheers, 
+
+$student, a curious student

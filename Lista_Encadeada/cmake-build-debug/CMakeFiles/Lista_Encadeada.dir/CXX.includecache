@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lucas/CLionProjects/Lista_Encadeada/lista.cpp
+lista.h
+/home/lucas/CLionProjects/Lista_Encadeada/lista.h
+exception
+-
+
+/home/lucas/CLionProjects/Lista_Encadeada/lista.h
+string
+-
+
+/home/lucas/CLionProjects/Lista_Encadeada/main.cpp
+iostream
+-
+lista.h
+/home/lucas/CLionProjects/Lista_Encadeada/lista.h
+

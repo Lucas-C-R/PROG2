@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lucas/CLionProjects/Tarefa7/VerificaOrdenada/verifica.cpp
+verifica.h
+/home/lucas/CLionProjects/Tarefa7/VerificaOrdenada/verifica.h
+
+/home/lucas/CLionProjects/Tarefa7/VerificaOrdenada/verifica.h
+string
+-
+list
+-
+

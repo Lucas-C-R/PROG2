@@ -1,0 +1,9 @@
+last_available_deaths,last_available_confirmed,estimated_population,city
+961,73685,508826,Florianópolis
+513,32232,250181,São José
+291,26394,175272,Palhoça
+150,10205,69486,Biguaçu
+2,392,2887,Rancho Queimado
+20,1433,8613,Antônio Carlos
+1,306,3228,Anitápolis
+35,2927,23579,Garopaba

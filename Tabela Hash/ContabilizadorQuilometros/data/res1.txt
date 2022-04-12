@@ -1,0 +1,247 @@
+Aime:
+--civic: 516
+--fusca: 107
+--idea: 335
+--l200: 39
+--lada: 517
+--uno: 225
+Alencar:
+--civic: 49
+--fusca: 202
+--idea: 284
+--l200: 6
+--lada: 149
+--pajero: 270
+--uno: 492
+Alzira:
+--fusca: 115
+--idea: 126
+--lada: 368
+--uno: 218
+André:
+--civic: 290
+--fusca: 263
+--idea: 117
+--uno: 332
+Angelina:
+--civic: 494
+--fusca: 161
+--l200: 151
+--lada: 124
+--pajero: 258
+--uno: 265
+Aryana:
+--civic: 1387
+--idea: 254
+--lada: 7
+--pajero: 193
+--uno: 248
+Aurelia:
+--civic: 247
+--fusca: 458
+--l200: 238
+--uno: 33
+Caio:
+--fusca: 149
+--l200: 268
+Carolina:
+--idea: 239
+--pajero: 59
+Cecília:
+--civic: 234
+--idea: 583
+Cesar:
+--civic: 241
+--lada: 139
+--uno: 231
+Ciro:
+--civic: 125
+--fusca: 238
+--idea: 142
+--l200: 295
+--lada: 244
+--pajero: 396
+--uno: 19
+Célio:
+--idea: 242
+--l200: 205
+--pajero: 177
+--uno: 46
+Dereck:
+--civic: 134
+--fusca: 12
+--idea: 254
+--l200: 318
+--lada: 451
+--pajero: 134
+Dilson:
+--civic: 251
+--idea: 260
+--l200: 236
+--lada: 52
+--uno: 535
+Dinah:
+--civic: 285
+--fusca: 19
+--l200: 41
+--lada: 145
+Ebion:
+--civic: 490
+--l200: 101
+--pajero: 83
+Eder:
+--civic: 116
+--l200: 127
+--pajero: 120
+--uno: 34
+Edith:
+--civic: 300
+--fusca: 302
+--uno: 165
+Eneida:
+--idea: 12
+--lada: 187
+--pajero: 134
+Giselda:
+--fusca: 48
+--l200: 55
+--pajero: 157
+Glaucia:
+--civic: 130
+--lada: 404
+--pajero: 234
+--uno: 226
+Glauco:
+--civic: 109
+--fusca: 165
+--idea: 7
+--l200: 182
+--pajero: 490
+Helio:
+--fusca: 407
+--idea: 136
+--lada: 19
+--uno: 474
+Heron:
+--idea: 154
+--lada: 289
+--pajero: 222
+--uno: 510
+Ivonete:
+--idea: 11
+--l200: 70
+--pajero: 61
+Jaime:
+--idea: 160
+--l200: 293
+--lada: 102
+--pajero: 298
+--uno: 384
+John:
+--idea: 509
+--l200: 289
+--lada: 247
+--pajero: 229
+Lismara:
+--civic: 20
+--fusca: 292
+--l200: 67
+--uno: 227
+Livio:
+--idea: 104
+--uno: 207
+Luke:
+--idea: 343
+--l200: 303
+--lada: 59
+--pajero: 128
+--uno: 694
+Luzia:
+--civic: 148
+--fusca: 134
+--idea: 254
+--l200: 424
+--pajero: 80
+Marilia:
+--civic: 279
+--fusca: 300
+--l200: 314
+--lada: 133
+Mayã:
+--civic: 121
+--l200: 277
+Nancy:
+--civic: 49
+--fusca: 300
+--idea: 26
+--lada: 434
+--pajero: 211
+Odessa:
+--civic: 308
+--lada: 866
+--pajero: 474
+Odila:
+--fusca: 88
+--idea: 298
+--l200: 447
+--pajero: 301
+Romeu:
+--civic: 143
+--fusca: 142
+--idea: 192
+--l200: 251
+--pajero: 57
+--uno: 256
+Salete:
+--fusca: 210
+--lada: 192
+--pajero: 463
+--uno: 133
+Samuel:
+--civic: 69
+--fusca: 232
+--idea: 234
+--l200: 283
+Sandra:
+--civic: 105
+--fusca: 29
+--l200: 254
+--lada: 814
+--uno: 166
+Stefano:
+--l200: 353
+--lada: 218
+--pajero: 514
+--uno: 46
+Valentina:
+--fusca: 214
+--l200: 14
+--lada: 313
+Vinicius:
+--civic: 258
+--idea: 128
+--l200: 256
+--lada: 111
+--pajero: 455
+--uno: 156
+Wesley:
+--civic: 50
+--fusca: 310
+--l200: 74
+--uno: 222
+Yolanda:
+--fusca: 43
+--idea: 283
+--l200: 154
+--lada: 313
+--pajero: 952
+Yose:
+--civic: 53
+--idea: 545
+--l200: 97
+--pajero: 222
+Zeus:
+--idea: 469
+--lada: 53
+--pajero: 53
+--uno: 148

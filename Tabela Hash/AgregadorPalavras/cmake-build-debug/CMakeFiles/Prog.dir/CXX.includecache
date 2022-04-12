@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/lucas/CLionProjects/Tabela Hash/AgregadorPalavras/main.cpp
+iostream
+-
+string
+-
+unordered_map
+-
+fstream
+-
+errno.h
+-
+list
+-
+

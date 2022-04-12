@@ -1,0 +1,64 @@
+Performing C SOURCE FILE Test CMAKE_HAVE_LIBC_PTHREAD failed with the following output:
+Change Dir: /home/msobral/CLionProjects/SeparaMaiusculasMinusculas/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_054bd/fast && make: ** Aviso: O arquivo 'Makefile' está com a hora 0,76 s adiantada
+/usr/bin/make  -f CMakeFiles/cmTC_054bd.dir/build.make CMakeFiles/cmTC_054bd.dir/build
+make[1]: Entrando no diretório '/nas/dados/sobral/CLionProjects/SeparaMaiusculasMinusculas/cmake-build-debug/CMakeFiles/CMakeTmp'
+make[1]: ** Aviso: O arquivo 'CMakeFiles/cmTC_054bd.dir/flags.make' está com a hora 0,73 s adiantada
+Building C object CMakeFiles/cmTC_054bd.dir/src.c.o
+/usr/bin/cc -DCMAKE_HAVE_LIBC_PTHREAD   -o CMakeFiles/cmTC_054bd.dir/src.c.o -c /home/msobral/CLionProjects/SeparaMaiusculasMinusculas/cmake-build-debug/CMakeFiles/CMakeTmp/src.c
+Linking C executable cmTC_054bd
+/home/msobral/clion-2021.1.1/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_054bd.dir/link.txt --verbose=1
+/usr/bin/cc -rdynamic CMakeFiles/cmTC_054bd.dir/src.c.o -o cmTC_054bd 
+/usr/bin/ld: CMakeFiles/cmTC_054bd.dir/src.c.o: na função "main":
+src.c:(.text+0x46): referência não definida para "pthread_create"
+/usr/bin/ld: src.c:(.text+0x52): referência não definida para "pthread_detach"
+/usr/bin/ld: src.c:(.text+0x5e): referência não definida para "pthread_cancel"
+/usr/bin/ld: src.c:(.text+0x6f): referência não definida para "pthread_join"
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_054bd.dir/build.make:106: cmTC_054bd] Erro 1
+make[1]: Saindo do diretório '/nas/dados/sobral/CLionProjects/SeparaMaiusculasMinusculas/cmake-build-debug/CMakeFiles/CMakeTmp'
+make: *** [Makefile:140: cmTC_054bd/fast] Erro 2
+
+
+Source file was:
+#include <pthread.h>
+
+static void* test_func(void* data)
+{
+  return data;
+}
+
+int main(void)
+{
+  pthread_t thread;
+  pthread_create(&thread, NULL, test_func, NULL);
+  pthread_detach(thread);
+  pthread_cancel(thread);
+  pthread_join(thread, NULL);
+  pthread_atfork(NULL, NULL, NULL);
+  pthread_exit(NULL);
+
+  return 0;
+}
+
+Determining if the function pthread_create exists in the pthreads failed with the following output:
+Change Dir: /home/msobral/CLionProjects/SeparaMaiusculasMinusculas/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_c345f/fast && make: ** Aviso: O arquivo 'Makefile' está com a hora 0,77 s adiantada
+/usr/bin/make  -f CMakeFiles/cmTC_c345f.dir/build.make CMakeFiles/cmTC_c345f.dir/build
+make[1]: Entrando no diretório '/nas/dados/sobral/CLionProjects/SeparaMaiusculasMinusculas/cmake-build-debug/CMakeFiles/CMakeTmp'
+make[1]: ** Aviso: O arquivo 'CMakeFiles/cmTC_c345f.dir/flags.make' está com a hora 0,76 s adiantada
+Building C object CMakeFiles/cmTC_c345f.dir/CheckFunctionExists.c.o
+/usr/bin/cc   -DCHECK_FUNCTION_EXISTS=pthread_create -o CMakeFiles/cmTC_c345f.dir/CheckFunctionExists.c.o -c /home/msobral/clion-2021.1.1/bin/cmake/linux/share/cmake-3.19/Modules/CheckFunctionExists.c
+Linking C executable cmTC_c345f
+/home/msobral/clion-2021.1.1/bin/cmake/linux/bin/cmake -E cmake_link_script CMakeFiles/cmTC_c345f.dir/link.txt --verbose=1
+/usr/bin/cc  -DCHECK_FUNCTION_EXISTS=pthread_create -rdynamic CMakeFiles/cmTC_c345f.dir/CheckFunctionExists.c.o -o cmTC_c345f  -lpthreads 
+/usr/bin/ld: não foi possível localizar -lpthreads
+collect2: error: ld returned 1 exit status
+make[1]: *** [CMakeFiles/cmTC_c345f.dir/build.make:106: cmTC_c345f] Erro 1
+make[1]: Saindo do diretório '/nas/dados/sobral/CLionProjects/SeparaMaiusculasMinusculas/cmake-build-debug/CMakeFiles/CMakeTmp'
+make: *** [Makefile:140: cmTC_c345f/fast] Erro 2
+
+
+

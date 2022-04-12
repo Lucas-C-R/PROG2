@@ -1,0 +1,3 @@
+/home/lucas/CLionProjects/Tarefa3/contar_palavras/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lucas/CLionProjects/Tarefa3/contar_palavras/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lucas/CLionProjects/Tarefa3/contar_palavras/cmake-build-debug/CMakeFiles/contar_palavras.dir

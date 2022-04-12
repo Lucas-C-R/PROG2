@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/conv_min_mai.dir/main.cpp.o -o conv_min_mai 

@@ -1,0 +1,3 @@
+/home/lucas/CLionProjects/Tarefa1/programa4/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/lucas/CLionProjects/Tarefa1/programa4/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/lucas/CLionProjects/Tarefa1/programa4/cmake-build-debug/CMakeFiles/programa4.dir
